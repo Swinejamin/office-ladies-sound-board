@@ -6,3 +6,7 @@
 
 # lerna files
 /lerna-debug.log
+
+#Editor settings
+.idea
+/schema.graphql
