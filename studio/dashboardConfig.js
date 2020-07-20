@@ -18,16 +18,16 @@ export default {
                 'NOTE: Because these sites are static builds, they need to be re-deployed to see the changes when documents are published.',
               sites: [
                 {
-                  buildHookId: '',
+                  buildHookId: '5f15b0bc1b668a79d5c68fa5',
                   title: 'Sanity Studio',
-                  name: '',
-                  apiId: ''
+                  name: 'office-ladies-sound-board-studio',
+                  apiId: 'f1aa2650-5013-4f60-843a-014f69743ec1'
                 },
                 {
-                  buildHookId: '',
-                  title: 'Blog Website',
-                  name: '',
-                  apiId: ''
+                  buildHookId: '5f15b0bc1b668a5654c69427',
+                  title: 'Office Ladies Sound Board',
+                  name: 'office-ladies-sound-board',
+                  apiId: 'be759867-a3cd-4ab8-bc7c-f366a76375c5'
                 }
               ]
             }
